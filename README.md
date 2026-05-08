@@ -5,7 +5,7 @@
 > **📢 Now with upgraded AWS SDK!** [Read the announcement](https://webodm.org/blog/announcement/)
 
 
-NodeODX is a [standard API specification](https://github.com/WebODM/NodeODX/blob/master/docs/index.adoc) for processing aerial images with engines such as [ODX](https://github.com/WebODM/ODX). The API is used by clients such as [WebODM](https://github.com/WebODM/WebODM), [CloudODX](https://github.com/WebODM/CloudODX) and [PyODM](https://github.com/WebODM/PyODM). This repository contains a performant, production-ready reference implementation written in NodeJS.
+NodeODX is a [standard API specification](https://github.com/WebODM/NodeODX/blob/master/docs/index.adoc) for processing aerial images with engines such as [ODX](https://github.com/WebODM/ODX). The API is used by clients such as [WebODM](https://github.com/WebODM/WebODM), [CloudODX](https://github.com/WebODM/CloudODX) and [PyODX](https://github.com/WebODM/PyODX). This repository contains a performant, production-ready reference implementation written in NodeJS.
 
 <img width="915" height="254" alt="image" src="https://github.com/user-attachments/assets/3754a3b3-ba8c-4957-b2c6-59bc1bcafb8a" />
 
